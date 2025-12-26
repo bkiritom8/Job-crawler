@@ -1,0 +1,54 @@
+Bhargav Pamidighantam
+U.S. Citizen
+bhargavsp01@gmail.com | (346) 648-5516
+linkedin.com/in/bhargavpam | Boston, MA
+github.com/bkiritom8
+
+Education
+Northeastern University MS, Computer Science, focused in Machine Learning, GPA: 3.7/4.0
+Indian Statistical Institute PGD in Applied Statistics, focused in Statistical Methods for Machine Learning
+ICFAI Business School Bachelor of Business Administration
+
+Certifications:
+• Stanford University: Machine Learning Specialization, Oct 2025
+• AWS: Cloud Practitioner (ongoing)
+• Google: Data Analytics Certificate, Project Management Certificate
+
+Experience
+
+Apple AI/ML Data Operations Analyst Mar 2023 – Mar 2024
+Hyderabad, India
+• Designed and implemented a Python-based framework to evaluate multilingual LLMs across 700K+ voice/audio and text
+prompts, identifying cross-dialect failure modes and informing retraining strategies.
+• Leveraged linguistic expertise in Singaporean English to fine-tune NLU models, reducing cross-dialect error rate by 62%
+• Collaborated with ML engineers to optimize annotation and evaluation pipelines, reducing experiment turnaround time.
+
+SSP 2000 Inc. May 2021 – Jul 2021
+IT Operations Intern Hyderabad, India
+• Built a digital inventory tracking system for R&D operations, improving asset traceability and reducing manual errors.
+• Utilized Python for the backend APIs and PostgreSQL for the database.
+
+Technical Skills
+Languages: Python, Java, SQL, R
+AI/ML Model Development: PyTorch, Keras, Scikit-learn, Hugging Face, XGBoost, SHAP, TensorFlow,
+Model Training & Optimization, Model Evaluation & Quality Metrics, Hyperparameter Tuning
+ML Infrastructure & Data Processing: Pandas, NumPy, Large-scale Data Processing, Data Pipelines
+Specialized ML: NLP, Information Retrieval, Speech/Audio Annotation, Statistical Modeling
+Cloud/Database: AWS (in progress), MySQL, Snowflake, PostgreSQL, MongoDB
+Other: Git, Linux, CI/CD, Data Structures & Algorithms
+
+Projects
+
+Explainable Machine Learning for Alzheimer's Stage Classification Oct 2025 – Present
+• Trained and optimized multiclass models including deep neural networks, Logistic Regression, SVM, Random Forest,
+XGBoost for Alzheimer's stage prediction using blood gene expression and clinical data with 20K+ features.
+• Conducted systematic model evaluation using cross-validation, confusion matrices, and performance metrics. Applied
+SHAP explainability to interpret feature importance and validate biological relevance.
+• Optimized XGBoost through feature selection, hyperparameter tuning, and data processing techniques for
+high-dimensional datasets, improving model accuracy and reducing computational overhead.
+
+Clinical Text Summarization using T5 Transformer Jul 2025 – Aug 2025
+• Built end-to-end NLP pipeline using Python, PyTorch, Hugging Face Transformers for training and evaluating T5
+models on 3700+ medical notes, implementing data processing workflows with Pandas, Scikit-learn.
+• Achieved 97% text compression through iterative model training and prompt optimization. Evaluated model quality via
+ROUGE metrics and human assessment. Visualized results using Matplotlib, Seaborn.
