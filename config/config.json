@@ -1,0 +1,38 @@
+{
+  "job_sources": {
+    "linkedin": {
+      "enabled": true,
+      "base_url": "https://www.linkedin.com/jobs/search",
+      "max_results": 50
+    },
+    "indeed": {
+      "enabled": true,
+      "base_url": "https://www.indeed.com/jobs",
+      "max_results": 50
+    },
+    "greenhouse": {
+      "enabled": true,
+      "patterns": [
+        "boards.greenhouse.io",
+        "grnh.se"
+      ]
+    }
+  },
+  "matching": {
+    "weights": {
+      "skill_overlap": 0.40,
+      "tool_alignment": 0.25,
+      "experience_fit": 0.20,
+      "role_alignment": 0.15
+    },
+    "penalties": {
+      "missing_core_requirement": 15,
+      "seniority_mismatch": 10
+    }
+  },
+  "semantic_model": "all-MiniLM-L6-v2",
+  "output": {
+    "top_n_jobs": 15,
+    "min_score": 60
+  }
+}

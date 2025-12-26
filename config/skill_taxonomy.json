@@ -1,0 +1,83 @@
+{
+  "programming_languages": {
+    "Python": ["python", "py", "python3"],
+    "JavaScript": ["javascript", "js", "ecmascript", "es6", "es2015"],
+    "Java": ["java"],
+    "C++": ["c++", "cpp", "cplusplus"],
+    "C#": ["c#", "csharp", "c sharp"],
+    "R": ["r programming", "r language"],
+    "SQL": ["sql", "t-sql", "pl/sql", "structured query language"],
+    "Go": ["golang", "go"],
+    "Rust": ["rust"],
+    "TypeScript": ["typescript", "ts"],
+    "Scala": ["scala"],
+    "Ruby": ["ruby"],
+    "PHP": ["php"],
+    "Swift": ["swift"],
+    "Kotlin": ["kotlin"]
+  },
+  "frameworks_libraries": {
+    "TensorFlow": ["tensorflow", "tf"],
+    "PyTorch": ["pytorch", "torch"],
+    "scikit-learn": ["sklearn", "scikit-learn", "scikit learn"],
+    "Keras": ["keras"],
+    "React": ["react", "reactjs", "react.js"],
+    "Angular": ["angular", "angularjs"],
+    "Vue": ["vue", "vuejs", "vue.js"],
+    "Django": ["django"],
+    "Flask": ["flask"],
+    "FastAPI": ["fastapi", "fast api"],
+    "Spring": ["spring", "spring boot", "springboot"],
+    "Node.js": ["nodejs", "node.js", "node"],
+    "Express": ["express", "expressjs"],
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "Spark": ["apache spark", "pyspark", "spark"]
+  },
+  "databases": {
+    "PostgreSQL": ["postgresql", "postgres", "psql"],
+    "MySQL": ["mysql"],
+    "MongoDB": ["mongodb", "mongo"],
+    "Redis": ["redis"],
+    "Elasticsearch": ["elasticsearch", "elastic search"],
+    "Cassandra": ["cassandra"],
+    "DynamoDB": ["dynamodb", "dynamo db"],
+    "Oracle": ["oracle db", "oracle database"],
+    "SQL Server": ["sql server", "mssql", "microsoft sql"],
+    "SQLite": ["sqlite"]
+  },
+  "cloud_platforms": {
+    "AWS": ["aws", "amazon web services"],
+    "Azure": ["azure", "microsoft azure"],
+    "GCP": ["gcp", "google cloud platform", "google cloud"],
+    "Heroku": ["heroku"],
+    "DigitalOcean": ["digitalocean", "digital ocean"]
+  },
+  "tools_technologies": {
+    "Docker": ["docker", "containerization"],
+    "Kubernetes": ["kubernetes", "k8s"],
+    "Git": ["git", "version control"],
+    "CI/CD": ["ci/cd", "continuous integration", "continuous deployment", "jenkins", "github actions", "gitlab ci"],
+    "Machine Learning": ["machine learning", "ml"],
+    "Deep Learning": ["deep learning", "dl", "neural networks"],
+    "NLP": ["nlp", "natural language processing"],
+    "Computer Vision": ["computer vision", "cv", "image processing"],
+    "Data Science": ["data science"],
+    "Data Engineering": ["data engineering"],
+    "ETL": ["etl", "extract transform load"],
+    "API": ["api", "rest api", "restful", "graphql"],
+    "Microservices": ["microservices", "micro services"],
+    "Agile": ["agile", "scrum", "kanban"],
+    "Linux": ["linux", "unix"],
+    "Tableau": ["tableau"],
+    "Power BI": ["power bi", "powerbi"],
+    "Airflow": ["airflow", "apache airflow"]
+  },
+  "soft_skills": {
+    "Leadership": ["leadership", "team lead", "leading"],
+    "Communication": ["communication", "presenting", "stakeholder management"],
+    "Problem Solving": ["problem solving", "analytical", "troubleshooting"],
+    "Collaboration": ["collaboration", "teamwork", "team player"],
+    "Mentoring": ["mentoring", "coaching", "training"]
+  }
+}

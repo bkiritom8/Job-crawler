@@ -1,0 +1,60 @@
+JOHN DOE
+Senior Machine Learning Engineer
+john.doe@email.com | (555) 123-4567 | San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+SUMMARY
+Senior Machine Learning Engineer with 7+ years of experience building and deploying ML systems at scale. Expertise in deep learning, NLP, and computer vision. Strong background in Python, TensorFlow, and cloud infrastructure.
+
+SKILLS
+Programming Languages: Python, Java, SQL, JavaScript
+ML/AI: TensorFlow, PyTorch, scikit-learn, Keras, XGBoost, LightGBM
+NLP: BERT, GPT, spaCy, NLTK, Hugging Face Transformers
+Computer Vision: OpenCV, YOLO, ResNet, CNN architectures
+Cloud: AWS (SageMaker, EC2, S3, Lambda), GCP, Azure
+Data: Pandas, NumPy, Spark, Kafka, Airflow
+Infrastructure: Docker, Kubernetes, CI/CD, Git, Jenkins
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+
+EXPERIENCE
+
+Senior Machine Learning Engineer | TechCorp Inc. | 2021 - Present
+• Led development of recommendation system serving 10M+ users, improving engagement by 35%
+• Built real-time NLP pipeline for content moderation using BERT and custom transformers
+• Deployed models to production using AWS SageMaker and Kubernetes, reducing latency by 50%
+• Mentored team of 4 junior ML engineers on best practices and model optimization
+• Tech stack: Python, TensorFlow, PyTorch, AWS, Docker, Kubernetes
+
+Machine Learning Engineer | DataTech Solutions | 2018 - 2021
+• Developed computer vision models for object detection achieving 95% accuracy
+• Created end-to-end ML pipelines using Airflow and Spark for batch processing
+• Implemented A/B testing framework for model evaluation and monitoring
+• Collaborated with product teams to translate business requirements into ML solutions
+• Tech stack: Python, scikit-learn, OpenCV, GCP, PostgreSQL
+
+Data Scientist | Analytics Corp | 2017 - 2018
+• Built predictive models for customer churn reduction (20% improvement)
+• Performed statistical analysis and data visualization for stakeholder reporting
+• Developed ETL pipelines for data warehousing using SQL and Python
+• Tech stack: Python, R, SQL Server, Tableau
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2017
+Specialization: Machine Learning and Artificial Intelligence
+GPA: 3.8/4.0
+
+Bachelor of Science in Mathematics | UC Berkeley | 2015
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• Google Cloud Professional ML Engineer
+• Deep Learning Specialization (Coursera)
+
+PUBLICATIONS
+• "Efficient Neural Networks for Real-time Processing" - NeurIPS 2022
+• "Scalable Recommendation Systems" - KDD 2021
+
+PROJECTS
+• Open-source ML library with 2K+ stars on GitHub
+• Kaggle competitions: Top 1% in 3 competitions
